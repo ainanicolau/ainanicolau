@@ -1,11 +1,37 @@
-<h1 align="center">Hi 👋, I'm Aina</h1>
-<h3 align="center">A Software Engineer from Mallorca ☀️</h3>
+<h1 align="center">Hi, I'm Aina</h1>
+<h3 align="center">A Software Engineer from Mallorca ☼</h3>
 <p align="center">
 <a href="https://linkedin.com/in/aina nicolau orell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aina nicolau orell" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **my personal website**
-- 🌱 I’m currently learning **WebGL and three.js**
-- 👨‍💻 I'm always learning **Clean Code, SOLID and Patterns**
+- I’m currently working on **my personal website**
+- I’m currently learning **WebGL and three.js**
+- I'm always learning **Clean Code, SOLID and Patterns**
 
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+![CSS3](https://img.shields.io/badge/css3-000000.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000.svg?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-000000.svg?style=flat-square&logo=html5&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000000.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-000000.svg?style=flat-square&logo=django&logoColor=white)
+![p5js](https://img.shields.io/badge/p5.js-000000?style=flat-square&logo=p5.js&logoColor=FFFFFF) 
+![Qt](https://img.shields.io/badge/Qt-000000.svg?style=flat-square&logo=Qt&logoColor=white) 
+![UNREAL](https://img.shields.io/badge/unreal-000000.svg?style=flat-square&logo=unreal-engine&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-000000.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=flat-square&logo=javascript&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-000000.svg?style=flat-square&logo=three.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-000000.svg?style=flat-square&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-000000.svg?style=flat-square&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-000000.svg?style=flat-square&logo=figma&logoColor=white) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-000000?style=flat-square&logo=gimp&logoColor=FFFFFF)
+![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=flat-square&logo=plotly&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white) 
+![Confluence](https://img.shields.io/badge/confluence-000000.svg?style=flat-square&logo=confluence&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000000.svg?style=flat-square&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-000000.svg?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-000000.svg?style=flat-square&logo=Trello&logoColor=white)
