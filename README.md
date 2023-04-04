@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aina</h1>
 <h3 align="center">A Software Engineer from Mallorca ☼</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aina nicolau orell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aina nicolau orell" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aina-nicolau-orell-a6800aa4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aina nicolau orell" height="30" width="40" /></a>
 </p>
 
 - I’m currently working on **my personal website**
